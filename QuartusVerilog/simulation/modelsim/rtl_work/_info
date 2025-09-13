@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/jrock/OneDrive/Desktop/4bitVerilog/simulation/modelsim
+vadderTb
+Z1 !s110 1757292995
+!i10b 1
+!s100 m?;dGO=I37W:QggI8DOAC2
+IZb`BZ<lUHV`2ndGL1m]:a0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1757292363
+8C:/Users/jrock/OneDrive/Desktop/4bitVerilog/adderTB.v
+FC:/Users/jrock/OneDrive/Desktop/4bitVerilog/adderTB.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1757292995.000000
+!s107 C:/Users/jrock/OneDrive/Desktop/4bitVerilog/adderTB.v|
+!s90 -reportprogress|300|-work|work|C:/Users/jrock/OneDrive/Desktop/4bitVerilog/adderTB.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+nadder@tb
+vfourBitAdder
+R1
+!i10b 1
+!s100 LZLD:@b_cY7Kn;AoLiedL3
+IR3OaTTY<RV:7dg@O8MJHA0
+R2
+R0
+Z7 w1757280587
+Z8 8C:/Users/jrock/OneDrive/Desktop/4bitVerilog/adder.v
+Z9 FC:/Users/jrock/OneDrive/Desktop/4bitVerilog/adder.v
+L0 21
+R3
+r1
+!s85 0
+31
+R4
+Z10 !s107 C:/Users/jrock/OneDrive/Desktop/4bitVerilog/adder.v|
+Z11 !s90 -reportprogress|300|-work|work|C:/Users/jrock/OneDrive/Desktop/4bitVerilog/adder.v|
+!i113 1
+R5
+R6
+nfour@bit@adder
+vfullAdderUnit
+R1
+!i10b 1
+!s100 3B@jGGHlDeS9_RHd1[dK90
+IZe8n_E<mNbHlg]9aXdhfJ2
+R2
+R0
+R7
+R8
+R9
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+nfull@adder@unit
